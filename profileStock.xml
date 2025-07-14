@@ -89,5 +89,23 @@
     <Product name="IPN100">
       <Stock length="6000" quantity="9" date="13.07.2025" />
     </Product>
+    
+    <Product name="IPN120"/>
+    <Product name="IPN140"/>
+    <Product name="IPN160"/>
+    <Product name="IPN180"/>
+    <Product name="IPN200"/>
+    <Product name="IPN220"/>
+    <Product name="IPN240"/>
+    <Product name="IPN260"/>
+    <Product name="IPN300"/>
+    <Product name="IPN320"/>
+    <Product name="IPN340"/>
+    <Product name="IPN360"/>
+    <Product name="IPN380"/>
+    <Product name="IPN400"/>
+    <Product name="IPN450"/>
+    <Product name="IPN500"/>
+    <Product name="IPN550"/>
   </Category>
 </Profiles>

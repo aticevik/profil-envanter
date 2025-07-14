@@ -80,6 +80,25 @@
     <Product name="NPU100">
       <Stock length="6000" quantity="10" date="13.07.2025" />
     </Product>
+    <Product name="NPU40"/>
+    <Product name="NPU50"/>
+    <Product name="NPU65"/>
+    <Product name="NPU80"/>
+    <Product name="NPU100"/>
+    <Product name="NPU120"/>
+    <Product name="NPU140"/>
+    <Product name="NPU160"/>
+    <Product name="NPU180"/>
+    <Product name="NPU200"/>
+    <Product name="NPU220"/>
+    <Product name="NPU240"/>
+    <Product name="NPU260"/>
+    <Product name="NPU280"/>
+    <Product name="NPU300"/>
+    <Product name="NPU320"/>
+    <Product name="NPU350"/>
+    <Product name="NPU380"/>
+    <Product name="NPU400"/>
   </Category>
 
   <Category name="IPN">

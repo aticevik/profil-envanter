@@ -165,9 +165,30 @@
     <Product name="10x10">
       <Stock length="6000" quantity="25" date="13.07.2025" />
     </Product>
-    <Product name="20x30">
-      <Stock length="6000" quantity="18" date="12.07.2025" />
-    </Product>
+    <Product name="15x15"/>
+    <Product name="20x20"/>
+    <Product name="25x25"/>
+    <Product name="30x30"/>
+    <Product name="35x35"/>
+      <Product name="40x40"/>
+  <Product name="45x45"/>
+  <Product name="50x50"/>
+  <Product name="55x55"/>
+  <Product name="60x60"/>
+  <Product name="65x65"/>
+  <Product name="70x70"/>
+  <Product name="75x75"/>
+  <Product name="80x80"/>
+  <Product name="90x90"/>
+  <Product name="100x100"/>
+  <Product name="110x110"/>
+  <Product name="120x120"/>
+  <Product name="130x130"/>
+  <Product name="140x140"/>
+  <Product name="150x150"/>
+  <Product name="160x160"/>
+  <Product name="180x180"/>
+  <Product name="200x200"/>
   </Category>
 
   <Category name="NPU">

@@ -32,8 +32,8 @@
     <Product name="HEA120">
       <Stock length="12000" quantity="5" date="12.07.2025" />
     </Product>
-    <Product name="HEA100"/>
-    <Product name="HEA120"/>
+    
+    
     <Product name="HEA140"/>
     <Product name="HEA160"/>
     <Product name="HEA180"/>
@@ -107,8 +107,8 @@
     <Product name="NPU40"/>
     <Product name="NPU50"/>
     <Product name="NPU65"/>
-    <Product name="NPU80"/>
-    <Product name="NPU100"/>
+    
+    
     <Product name="NPU120"/>
     <Product name="NPU140"/>
     <Product name="NPU160"/>

@@ -92,6 +92,55 @@
     <Product name="30x50">
       <Stock thickness="2.5" length="6000" quantity="20" date="13.07.2025" />
     </Product>
+    <Product name="10x20"/>
+  <Product name="10x25"/>
+  <Product name="10x30"/>
+  <Product name="15x20"/>
+  <Product name="15x25"/>
+  <Product name="15x30"/>
+  <Product name="15x40"/>
+  <Product name="20x25"/>
+  <Product name="20x30"/>
+  <Product name="20x35"/>
+  <Product name="20x40"/>
+  <Product name="20x50"/>
+  <Product name="25x30"/>
+  <Product name="25x35"/>
+  <Product name="25x40"/>
+  <Product name="25x50"/>
+  <Product name="30x35"/>
+  <Product name="30x40"/>
+  
+  <Product name="30x60"/>
+  <Product name="30x70"/>
+  <Product name="40x50"/>
+  <Product name="40x60"/>
+  <Product name="40x80"/>
+  <Product name="40x100"/>
+  <Product name="50x60"/>
+  <Product name="50x70"/>
+  <Product name="50x90"/>
+  <Product name="50x100"/>
+  <Product name="50x150"/>
+  <Product name="60x80"/>
+  <Product name="60x100"/>
+  <Product name="60x120"/>
+  <Product name="80x100"/>
+  <Product name="80x120"/>
+  <Product name="80x140"/>
+  <Product name="100x150"/>
+  <Product name="100x180"/>
+  <Product name="100x200"/>
+  <Product name="100x300"/>
+  <Product name="120x200"/>
+  <Product name="150x200"/>
+  <Product name="150x250"/>
+  <Product name="150x300"/>
+  <Product name="200x300"/>
+  <Product name="200x400"/>
+  <Product name="250x400"/>
+  <Product name="250x450"/>
+  <Product name="300x500"/>
   </Category>
 
   <Category name="Boru">

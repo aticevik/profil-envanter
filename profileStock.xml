@@ -1,12 +1,12 @@
 <Profiles>
   <Category name="IPE">
     <Product name="IPE80">
-      <Stock length="6000" quantity="24" date="14.07.2025" />
+      <Stock length="6000" quantity="24" date="14.07.2025"/>
     </Product>
     <Product name="IPE100">
-      <Stock length="12000" quantity="12" date="13.07.2025" />
+      <Stock length="12000" quantity="12" date="13.07.2025"/>
     </Product>
-    <Product name="IPE120"/>
+    <Product name="IPE120"><Stock length="1266" quantity="1" date="15.07.2025"/></Product>
     <Product name="IPE140"/>
     <Product name="IPE160"/>
     <Product name="IPE180"/>
@@ -27,10 +27,10 @@
 
   <Category name="HEA">
     <Product name="HEA100">
-      <Stock length="6000" quantity="8" date="11.07.2025" />
+      <Stock length="6000" quantity="8" date="11.07.2025"/>
     </Product>
     <Product name="HEA120">
-      <Stock length="12000" quantity="5" date="12.07.2025" />
+      <Stock length="12000" quantity="5" date="12.07.2025"/>
     </Product>
     
     
@@ -60,7 +60,7 @@
 
   <Category name="Kutu Profil Kare">
     <Product name="40x40">
-      <Stock thickness="2.0" length="6000" quantity="50" date="14.07.2025" />
+      <Stock thickness="2.0" length="6000" quantity="50" date="14.07.2025"/>
     </Product>
     <Product name="10x10"/>
   <Product name="15x15"/>
@@ -90,7 +90,7 @@
 
   <Category name="Kutu Profil Dikdörtgen">
     <Product name="30x50">
-      <Stock thickness="2.5" length="6000" quantity="20" date="13.07.2025" />
+      <Stock thickness="2.5" length="6000" quantity="20" date="13.07.2025"/>
     </Product>
     <Product name="10x20"/>
   <Product name="10x25"/>
@@ -145,25 +145,25 @@
 
   <Category name="Boru">
     <Product name="Ø60">
-      <Stock diameter="60" thickness="2.0" length="6000" quantity="100" date="14.07.2025" />
+      <Stock diameter="60" thickness="2.0" length="6000" quantity="100" date="14.07.2025"/>
     </Product>
     <Product name="Ø80">
-      <Stock diameter="80" thickness="3.0" length="6000" quantity="40" date="13.07.2025" />
+      <Stock diameter="80" thickness="3.0" length="6000" quantity="40" date="13.07.2025"/>
     </Product>
   </Category>
 
   <Category name="Lama">
     <Product name="25x5">
-      <Stock thickness="5" width="25" length="6000" quantity="30" date="13.07.2025" />
+      <Stock thickness="5" width="25" length="6000" quantity="30" date="13.07.2025"/>
     </Product>
     <Product name="40x6">
-      <Stock thickness="6" width="40" length="6000" quantity="15" date="14.07.2025" />
+      <Stock thickness="6" width="40" length="6000" quantity="15" date="14.07.2025"/>
     </Product>
   </Category>
 
   <Category name="Köşebent">
     <Product name="10x10">
-      <Stock length="6000" quantity="25" date="13.07.2025" />
+      <Stock length="6000" quantity="25" date="13.07.2025"/>
     </Product>
     <Product name="15x15"/>
     <Product name="20x20"/>
@@ -193,10 +193,10 @@
 
   <Category name="NPU">
     <Product name="NPU80">
-      <Stock length="6000" quantity="22" date="14.07.2025" />
+      <Stock length="6000" quantity="22" date="14.07.2025"/>
     </Product>
     <Product name="NPU100">
-      <Stock length="6000" quantity="10" date="13.07.2025" />
+      <Stock length="6000" quantity="10" date="13.07.2025"/>
     </Product>
     <Product name="NPU40"/>
     <Product name="NPU50"/>
@@ -221,10 +221,10 @@
 
   <Category name="IPN">
     <Product name="IPN80">
-      <Stock length="6000" quantity="16" date="14.07.2025" />
+      <Stock length="6000" quantity="16" date="14.07.2025"/>
     </Product>
     <Product name="IPN100">
-      <Stock length="6000" quantity="9" date="13.07.2025" />
+      <Stock length="6000" quantity="9" date="13.07.2025"/>
     </Product>
     
     <Product name="IPN120"/>

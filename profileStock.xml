@@ -6,6 +6,56 @@
     <Product name="IPE100">
       <Stock length="12000" quantity="12" date="13.07.2025" />
     </Product>
+     <Product name="IPE120">
+    </Product>
+    </Product>
+     <Product name="IPE140">
+    </Product>
+    </Product>
+     <Product name="IPE160">
+    </Product>
+    </Product>
+     <Product name="IPE180">
+    </Product>
+    </Product>
+     <Product name="IPE200">
+    </Product>
+    </Product>
+     <Product name="IPE220">
+    </Product>
+    </Product>
+     <Product name="IPE240">
+    </Product>
+    </Product>
+     <Product name="IPE270">
+    </Product>
+    </Product>
+     <Product name="IPE300">
+    </Product>
+    </Product>
+     <Product name="IPE330">
+    </Product>
+    </Product>
+     <Product name="IPE360">
+    </Product>
+    </Product>
+     <Product name="IPE400">
+    </Product>
+    </Product>
+     <Product name="IPE450">
+    </Product>
+    </Product>
+     <Product name="IPE500">
+    </Product>
+    </Product>
+     <Product name="IPE550">
+    </Product>
+    </Product>
+     <Product name="IPE600">
+    </Product>
+    </Product>
+     <Product name="IPE750">
+    </Product>
   </Category>
 
   <Category name="HEA">

@@ -1,12 +1,8 @@
 <Profiles>
   <Category name="IPE">
-    <Product name="IPE80">
-      <Stock length="6000" quantity="24" date="14.07.2025"/>
-    </Product>
+    <Product name="IPE80">  
     <Product name="IPE100">
-      <Stock length="12000" quantity="12" date="13.07.2025"/>
-    </Product>
-    <Product name="IPE120"><Stock length="1266" quantity="1" date="15.07.2025"/><Stock length="500" quantity="2" date="15.07.2025"/></Product>
+    <Product name="IPE120">
     <Product name="IPE140"/>
     <Product name="IPE160"/>
     <Product name="IPE180"/>

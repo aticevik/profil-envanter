@@ -32,6 +32,30 @@
     <Product name="HEA120">
       <Stock length="12000" quantity="5" date="12.07.2025" />
     </Product>
+    <Product name="HEA100"/>
+    <Product name="HEA120"/>
+    <Product name="HEA140"/>
+    <Product name="HEA160"/>
+    <Product name="HEA180"/>
+    <Product name="HEA200"/>
+    <Product name="HEA220"/>
+    <Product name="HEA240"/>
+    <Product name="HEA260"/>
+    <Product name="HEA280"/>
+    <Product name="HEA300"/>
+    <Product name="HEA320"/>
+    <Product name="HEA340"/>
+    <Product name="HEA360"/>
+    <Product name="HEA400"/>
+    <Product name="HEA450"/>
+    <Product name="HEA500"/>
+    <Product name="HEA550"/>
+    <Product name="HEA600"/>
+    <Product name="HEA650"/>
+    <Product name="HEA700"/>
+    <Product name="HEA800"/>
+    <Product name="HEA900"/>
+    <Product name="HEA1000"/>
   </Category>
 
   <Category name="Kutu Profil Kare">

@@ -23,7 +23,7 @@
 
   <Category name="HEA">
     <Product name="HEA100">
-      <Stock length="1" quantity="1" date="11.07.2025"/>
+      <Stock length="1" quantity="2" date="15.07.2025"/>
     </Product>
     <Product name="HEA120"/>
       

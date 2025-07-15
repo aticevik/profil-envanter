@@ -141,7 +141,7 @@
   <Category name="Boru">
     <Product name="Boru">
       <Stock diameter="60" thickness="1" length="1" quantity="1" date="14.07.2025"/>
-    
+    </Product>
   </Category>
 
   <Category name="Lama">

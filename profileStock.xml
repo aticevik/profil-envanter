@@ -19,7 +19,7 @@
     <Product name="IPE550"/>
     <Product name="IPE600"/>
     <Product name="IPE750"/>
-  </Category>
+  <Product name="50x50"><Stock length="1200" quantity="1" date="15.07.2025"/></Product></Category>
 
   <Category name="HEA">
     <Product name="HEA100">

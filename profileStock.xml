@@ -19,7 +19,8 @@
     <Product name="IPE550"/>
     <Product name="IPE600"/>
     <Product name="IPE750"/>
-  <Product name="50x50"/></Category>
+    </Category>
+  
 
   <Category name="HEA">
     <Product name="HEA100">

@@ -6,7 +6,7 @@
     <Product name="IPE140"/>
     <Product name="IPE160"/>
     <Product name="IPE180"/>
-    <Product name="IPE200"><Stock id="id-5lqkz24vx" date="16.07.2025" length="100" quantity="1" material="Siyah" height="1"/></Product>
+    <Product name="IPE200"><Stock id="id-5lqkz24vx" date="16.07.2025" length="100" quantity="1" material="Siyah" height="1"/><Stock id="id-mbymksoxl" date="16.07.2025" length="150" quantity="1" material="Paslanmaz"/></Product>
     <Product name="IPE220"/>
     <Product name="IPE240"/>
     <Product name="IPE270"/>

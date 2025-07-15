@@ -217,7 +217,7 @@
   <Category name="IPN">
     <Product name="IPN80">
       <Stock length="1" quantity="1" date="14.07.2025"/>
-    <Stock length="110" quantity="1" date="15.07.2025"/></Product>
+    <Stock length="110" quantity="5" date="15.07.2025"/></Product>
     <Product name="IPN100">
       <Stock length="1" quantity="1" date="13.07.2025"/>
     </Product>

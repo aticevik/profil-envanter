@@ -145,10 +145,10 @@
   </Category>
 
   <Category name="Lama">
-    <Product name="25x5">
+    <Product name="Lama">
       <Stock thickness="5" width="25" length="1" quantity="1" date="13.07.2025" id="id-sy7q1qogk"/>
     </Product>
-    <Product name="40x6">
+    <Product name="Lama">
       <Stock thickness="6" width="40" length="1" quantity="1" date="14.07.2025" id="id-7gk6h9ris"/>
     </Product>
   </Category>
@@ -162,25 +162,25 @@
     <Product name="25x25"/>
     <Product name="30x30"/>
     <Product name="35x35"/>
-      <Product name="40x40"/>
-  <Product name="45x45"/>
-  <Product name="50x50"/>
-  <Product name="55x55"/>
-  <Product name="60x60"/>
-  <Product name="65x65"/>
-  <Product name="70x70"/>
-  <Product name="75x75"/>
-  <Product name="80x80"/>
-  <Product name="90x90"/>
-  <Product name="100x100"/>
-  <Product name="110x110"/>
-  <Product name="120x120"/>
-  <Product name="130x130"/>
-  <Product name="140x140"/>
-  <Product name="150x150"/>
-  <Product name="160x160"/>
-  <Product name="180x180"/>
-  <Product name="200x200"/>
+    <Product name="40x40"/>
+    <Product name="45x45"/>
+    <Product name="50x50"/>
+    <Product name="55x55"/>
+    <Product name="60x60"/>
+    <Product name="65x65"/>
+    <Product name="70x70"/>
+    <Product name="75x75"/>
+    <Product name="80x80"/>
+    <Product name="90x90"/>
+    <Product name="100x100"/>
+    <Product name="110x110"/>
+    <Product name="120x120"/>
+    <Product name="130x130"/>
+    <Product name="140x140"/>
+    <Product name="150x150"/>
+    <Product name="160x160"/>
+    <Product name="180x180"/>
+    <Product name="200x200"/>
   </Category>
 
   <Category name="NPU">

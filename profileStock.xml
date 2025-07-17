@@ -26,9 +26,6 @@
       <Stock length="1" quantity="2" date="15.07.2025" id="id-14xg3rjb8"/>
     </Product>
     <Product name="HEA120"/>
-      
-    
-    
     <Product name="HEA140"/>
     <Product name="HEA160"/>
     <Product name="HEA180"/>
@@ -53,17 +50,16 @@
     <Product name="HEA1000"/>
   </Category>
 
-  <Category name="Kutu Profil Kare">
-    <Product name="40x40">
-      <Stock thickness="1.0" length="1" quantity="1" date="14.07.2025" id="id-55cuccjaw"/>
-    </Product>
-    <Product name="10x10"/>
+  <Category name="Kutu Profil Kare">  
+  <Product name="10x10"/>
   <Product name="15x15"/>
   <Product name="20x20"/>
   <Product name="25x25"/>
   <Product name="30x30"/>
   <Product name="35x35"/>
-  
+  <Product name="40x40">
+      <Stock thickness="1.0" length="1" quantity="1" date="14.07.2025" id="id-55cuccjaw"/>
+    </Product>
   <Product name="50x50"/>
   <Product name="60x60"/>
   <Product name="70x70"/>
@@ -84,10 +80,8 @@
   </Category>
 
   <Category name="Kutu Profil Dikdörtgen">
-    <Product name="30x50">
-      <Stock thickness="1" length="1" quantity="1" date="13.07.2025" id="id-cngtkaqg0"/>
-    </Product>
-    <Product name="10x20"/>
+    
+  <Product name="10x20"/>
   <Product name="10x25"/>
   <Product name="10x30"/>
   <Product name="15x20"/>
@@ -105,7 +99,9 @@
   <Product name="25x50"/>
   <Product name="30x35"/>
   <Product name="30x40"/>
-  
+  <Product name="30x50">
+      <Stock thickness="1" length="1" quantity="1" date="13.07.2025" id="id-cngtkaqg0"/>
+    </Product>
   <Product name="30x60"/>
   <Product name="30x70"/>
   <Product name="40x50"/>
@@ -184,17 +180,16 @@
   </Category>
 
   <Category name="NPU">
+    
+    <Product name="NPU40"/>
+    <Product name="NPU50"/>
+    <Product name="NPU65"/>
     <Product name="NPU80">
       <Stock length="1" quantity="1" date="14.07.2025" id="id-imbeuvwh8"/>
     </Product>
     <Product name="NPU100">
       <Stock length="1" quantity="1" date="13.07.2025" id="id-zfxvafoyv"/>
     </Product>
-    <Product name="NPU40"/>
-    <Product name="NPU50"/>
-    <Product name="NPU65"/>
-    
-    
     <Product name="NPU120"/>
     <Product name="NPU140"/>
     <Product name="NPU160"/>
@@ -218,7 +213,6 @@
     <Product name="IPN100">
       <Stock length="1" quantity="1" date="13.07.2025" id="id-d3o37h588"/>
     </Product>
-    
     <Product name="IPN120"/>
     <Product name="IPN140"/>
     <Product name="IPN160"/>

@@ -137,7 +137,7 @@
   <Category name="Boru">
     <Product name="Boru">
       <Stock diameter="60" thickness="1" length="1" quantity="1" date="14.07.2025" id="id-omuwp16sx"/>
-    </Product>
+    <Stock id="id-xfkiepqal" date="18.07.2025" length="1" quantity="1" material="Paslanmaz" thickness="2" diameter="50"/></Product>
   </Category>
 
   <Category name="Lama">
